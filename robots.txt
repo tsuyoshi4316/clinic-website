@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tsuyoshi4316.github.io/clinic-website/sitemap.xml
